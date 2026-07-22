@@ -1,10 +1,10 @@
-# 📝 To-Do CLI (Python)
+# To-Do CLI (Python)
 
 A lightweight command-line task manager built with Python. Manage your tasks directly from the terminal with persistent storage and no external dependencies.
 
 ---
 
-## ✨ Features
+## Features
 
 * Add tasks with priority levels (High, Medium, Low)
 * View tasks in a clean numbered list
@@ -18,13 +18,13 @@ A lightweight command-line task manager built with Python. Manage your tasks dir
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 * Python 3.x
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/gcr-code/todo-cli-python.git
@@ -33,7 +33,7 @@ cd todo-cli-python
 
 ---
 
-## ▶️ Run
+## Run
 
 ```bash
 python todo_cli.py
@@ -41,7 +41,7 @@ python todo_cli.py
 
 ---
 
-## 🖥️ Usage
+## Usage
 
 On launch, you'll see the main menu:
 
@@ -63,7 +63,7 @@ Tasks are automatically saved to `tasks.txt`.
 
 ---
 
-## 📌 Example
+## Example
 
 ```
 Enter choice: 1
@@ -77,7 +77,7 @@ Your Tasks:
 
 ---
 
-## 📂 File Storage
+## File Storage
 
 Tasks are stored in `tasks.txt` using a simple format:
 
@@ -90,7 +90,7 @@ This file is automatically created and updated.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 todo-cli-python/
